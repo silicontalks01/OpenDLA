@@ -2,7 +2,9 @@
 ## Open Source Deep Learning Accelerator Group
 
 A discussion group on Open Source Deep Learning Accelerator, with hardware/software issues.
-Currently, the project incldes the project of NVDLA[1][2]. 
+
+## Project List
+(1) NVDLA by Nvidia [1][2]
 
 
 ## Reference
