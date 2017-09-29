@@ -16,8 +16,23 @@ https://github.com/nvdla/doc/blob/35056106d8a13f7783ccae024710f6eec2c82b44/doc/h
 
 搜索 `WMB` 关键字。
 
+### DLA sub-unit 中的 MCIF 是什么的缩写？
+
+memory xx interface？
+
+### DLA sub-unit 中的 CVIF 是什么的缩写？
+
+convolution interface？
+
+### BDMA中的 CFG_LINE_REPEAT 字段解释中的 surface 是指什么？
+
+### RAM Type of weights 有几种 type？
+
 ## 硬件实现类
 
 
 ## 深度学习
 
+### 为什么 zero pad 了，硬件里面还有个 zero pad value？难道不是0么？
+
+真不是。因为做了量化？
