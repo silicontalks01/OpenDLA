@@ -1,0 +1,8 @@
+.DS_Store
+*~
+*.tmp
+*.bak
+*.pyc
+*.html
+*.htm
+
