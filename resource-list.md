@@ -1,5 +1,13 @@
 # 有关NVDLA介绍、分析文章等的资源列表
 
+2017-10-11 [jszheng](https://github.com/jszheng)
+阅读笔记：Diagrams for RTL release
+[CACC.vsd](code_reading/CACC.vsd),
+[CBUF.vsd](code_reading/CBUF.vsd),
+[CMAC.vsd](code_reading/CMAC.vsd),
+[Partition.vsd](code_reading/Partition.vsd)
+
+
 2017-10-01 王逵
 [NVDLA的阅读笔记](nvdla_report/NVDLA-notes-by-wangkui.pdf)
 
