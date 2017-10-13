@@ -1,4 +1,5 @@
 # OpenDLA
+# Changed to https://github.com/OpenDLA/OpenDLA
 ## Open Source Deep Learning Accelerator Group
 
 A discussion group on Open Source Deep Learning Accelerator, with technical reports and potential hardware/software issues.
