@@ -8,6 +8,9 @@
 [Partition.vsd](code_reading/Partition.vsd)
 
 
+2017-10-04 王逵
+[NVDLA的浮点数据通路](nvdla_report/NVDLA-floating-point-data-path.txt)
+
 2017-10-01 王逵
 [NVDLA的阅读笔记](nvdla_report/NVDLA-notes-by-wangkui.pdf)
 
